@@ -1,4 +1,3 @@
-int main(){
 int i;
 
 100.times {|i|
@@ -11,6 +10,4 @@ int i;
     } else {
       printf("%d\n", i);
     }
-}
-return 0;
 }
